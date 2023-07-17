@@ -1,0 +1,20 @@
+.h1Style {
+    font-size: 80px;
+    font-family: Impact;
+
+}
+
+p {
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.btnJs {
+    margin: auto;
+    margin-top: 50px;
+    width: 200px;
+}
+
+.btnJs:hover {
+    background-color: rgb(5, 145, 5);
+}
